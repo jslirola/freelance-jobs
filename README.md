@@ -6,7 +6,9 @@ Check freelance jobs from the most known websites. If some of them has no RSS, I
 
 * Website:  https://freelance.infojobs.net
 * [Code](https://github.com/jslirola/freelance-jobs/blob/master/infojobs/if-jobs.py)
-* Script preview: soon.
+* Script preview:
+
+![Infojobs Freelance](infojobs/preview.gif)
 
 ## Tecnoempleo (Spanish)
 
